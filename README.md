@@ -21,10 +21,10 @@
 
 ## 🏆 Achievements
 
+- 🏅 **SIH 2024 Winner**: Detection of Illegal Constructions using Satellite AI
 - 🥇 **1st Place** – Build ‘A’ Thon: RC Car & IoT Project  
 - 🥈 **2nd Place** – Hackstacy @ Microsoft: Defense Surveillance System  
-- 🏅 **Winner – SIH 2024**: Detection of Illegal Constructions using Satellite AI
-
+  
 ---
 
 ## 🚀 Highlight Projects
