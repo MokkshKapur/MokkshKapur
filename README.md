@@ -87,7 +87,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mokkshkapur&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub overall stats" />
-  <img src="https://streak-stats.demolab.com?user=Mokkshkapur&theme=tokyonight" alt="GitHub streak stats for Mokkshkapur" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mokkshkapur&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokkshkapur&layout=compact&theme=tokyonight" alt="Top languages used by Mokkshkapur" />
 </p>
 ---
